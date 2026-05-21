@@ -7,7 +7,7 @@ Hello, I'm Ryan Soltis, a Computer Science undergrad student at the University o
 
 This project was the final project for my CISC 450 Database Design course. It is a fullstack webapp that allows users to keep track of gym and wellness history. I chose to showcase this project because I am proud of it on both a technical and practical level. For the technical aspect of the project, I worked with many tools I was unfamilar with and was able to learn them through developing the app. Another part was the database, which I helped design and implement from scratch, which was also new to me. On a practical level, it is the project I feel is the most "useful" out of anything I've created during my time at St. Thomas. Although simple, it feels like something that someone could realistically use daily to track their wellness/gym progress. This is unique to this project, and was a reason to why I wanted to showcase it.
 
-[(Repositoty Link)](https://github.com/ryansoltz/Gym_Wellness_Tracker)
+[(Repository Link)](https://github.com/ryansoltz/Gym_Wellness_Tracker)
 
 # St. Paul Crime Data Webapp
 [(Repository Link)](https://github.com/ryansoltz/CISC375-Project4)
