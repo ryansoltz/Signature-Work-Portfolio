@@ -1,7 +1,7 @@
 # Signature-Work-Portfolio
 
 # Overview
-Hello, I'm Ryan Soltis, a Computer Science undergrad student at the University of St. Thomas. As of writing this I am currently in my last semester and am anticipating to graduate. This is my Signature Work Portfolio, a showcase for some of the projects I've worked on during my time in undergrad that I am most proud of.  
+Hello, I'm Ryan Soltis, a Computer Science undergrad student at the University of St. Thomas. As of writing this I am currently in my last semester and am close to graduating. This is my Signature Work Portfolio, a showcase for some of the projects I've worked on during my time in undergrad that I am most proud of.  
 
 # Workout Tracker
 
