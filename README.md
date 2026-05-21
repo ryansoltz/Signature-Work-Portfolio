@@ -10,6 +10,9 @@ This project was the final project for my CISC 450 Database Design course. It is
 [(Repository Link)](https://github.com/ryansoltz/Gym_Wellness_Tracker)
 
 # St. Paul Crime Data Webapp
+
+This project was the final project for my CISC 375 Web Development course. It is a webapp that allows crime data in the St. Paul area to be viewed with an interactive map, and allows new incidents to be reported as well. O chose to showcase this project because it was the first proper webapp I developed. It helped me learn many different tools and aspects of web development, beyond just basic HTML/CSS/Javascript. This is also the project I feel most connects to St. Thomas's mission of the common good. This app provides public access to information of what crimes have occured in certain areas of St. Paul. This could help people stay well informed on crime patterns in their communities and influence safety precautions they take, while also being able to report new incidents so it can remain up to date. This is an angle I feel isn't present in my other projects, which is why I wanted to showcase it.
+
 [(Repository Link)](https://github.com/ryansoltz/CISC375-Project4)
 
 # Game Project
